@@ -12,7 +12,11 @@
 
 |**김유림**|**윤서빈**|**이진**|**조예원**|
 |---|---|---|---|
-|테스트1|테스트2|테스트3|테스트4|
+|라이브 스트리밍 담당
+|사고 등록, 사건 사고 알리미 및 모아보기 담당
+|재난 문자 모아보기 및 정보 게시판 담당
+|위험 정보 지도 및 데이터 시각화 담당
+|
 
 ---
 
@@ -36,23 +40,23 @@
 ![image](https://github.com/user-attachments/assets/61bdf4db-bb73-4f8b-8908-8da991ff4c8e)
 
 #### 기획 및 설계
-  - Figma : 프론트 프로토타입, 서비스 정보구조, 인프라 아키텍처 설계.
-  - Notion : 서비스 기획 및 협업 문서 관리.
+   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> : 프론트 프로토타입, 서비스 정보구조, 인프라 아키텍처 설계  
+   <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/> : 서비스 기획 및 협업 문서 관리
 #### 협업
-  - Git : 프로젝트 협업 및 버전 관리.
+   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/> : 프로젝트 협업 및 버전 관리  
 #### 인프라 
-  - Naver Cloud Platform : 전체 인프라 호스팅.
+   <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=naver&logoColor=white"/> : 전체 인프라 호스팅  
 #### 개발
-  - Flutter : 안드로이드 앱 개발을 위해 사용.
-  - Android Studio : Flutter와 .dart 파일 관리를 위한 IDE.
-  - Spring Boot : 데이터 크롤링 서버 구축.
-  - IntelliJ IDEA : Spring Boot 서버 개발 시 사용.
-  - MySQL : 정형 데이터 저장 (재난 정보 등).
-  - Object Storage: 비정형 데이터 저장 (영상 정보).
-  - Google Cloud Firestore : 비정형 데이터 저장 (채팅 내역).
-  - Naver Cloud Live Station : 실시간 스트리밍 서비스.
-  - Naver Maps API : 재난 위치를 프론트에서 지도상에 표시.
-  - Naver login: 네이버 로그인 기능.
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> : 안드로이드 앱 개발을 위해 사용  
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> : Flutter와 .dart 파일 관리를 위한 IDE  
+   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> : 데이터 크롤링 서버 구축  
+   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/> : Spring Boot 서버 개발 시 사용  
+   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> : 정형 데이터 저장 (재난 정보 등)  
+   <img src="https://img.shields.io/badge/Object Storage-000000?style=flat-square&logo=objectstorage&logoColor=white"/> : 비정형 데이터 저장 (영상 정보)  
+   <img src="https://img.shields.io/badge/Google Cloud Firestore-DD2C00?style=flat-square&logo=firebase&logoColor=white"/> : 비정형 데이터 저장 (채팅 내역)  
+   <img src="https://img.shields.io/badge/Naver Cloud Live Station-03C75A?style=flat-square&logo=naver&logoColor=white"/> : 실시간 스트리밍 서비스  
+   <img src="https://img.shields.io/badge/Naver Maps API-03C75A.svg?style=flat-square&logo=naver&logoColor=white"/> : 재난 위치를 프론트에서 지도상에 표시  
+   <img src="https://img.shields.io/badge/Naver login-03C75A?style=flat-square&logo=naver&logoColor=white"/> : 네이버 로그인 기능  
 
 ##### [Cloud Architecture] VPC를 이용해 public subnet 2개, private subnet 1개로 구성.
 ![image](https://github.com/user-attachments/assets/112ec20c-3006-4dea-8bb0-ad66edfd132b)
