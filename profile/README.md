@@ -1,5 +1,5 @@
 # 📢 사회적 안전 정보 통합 서비스, **ALOG** ⛑️🆘
-🔗 **[ALOG 앱 다운로드](https://github.com/SSU-ALOG/alog_application/releases/download/v1.0.0/app-release.apk)**  
+🔗 **[ALOG 앱 다운로드하기 (Android)](https://github.com/SSU-ALOG/alog_application/releases/download/v1.0.0/app-release.apk)**  
 
 - 각종 사건, 사고, 재난, 질병 정보를 지도로 한 눈에
 - 현장에서 일어나고 있는 상황을 라이브 스트리밍
