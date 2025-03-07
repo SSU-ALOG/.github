@@ -42,8 +42,8 @@
 #### 인프라 
    <img src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logo=naver&logoColor=white"/> : 전체 인프라 호스팅  
 #### 개발
-   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> : 안드로이드 앱 개발을 위해 사용  
-   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> : Flutter와 .dart 파일 관리를 위한 IDE  
+   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> : Flutter와 .dart 파일 관리를 위한 IDE  
+   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white"/> :  안드로이드 앱 개발을 위해 사용  
    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> : 데이터 크롤링 서버 구축  
    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white"/> : Spring Boot 서버 개발 시 사용  
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> : 정형 데이터 저장 (재난 정보 등)  
