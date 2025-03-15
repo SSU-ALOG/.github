@@ -1,4 +1,5 @@
 # 📢 사회적 안전 정보 통합 서비스, **ALOG** ⛑️🆘
+📺 **[ALOG 시연영상 보러가기 (Youtube)](https://youtu.be/tlKO2gDIQOA?si=sg-wQaVhFZZxOSYn)**  
 🔗 **[ALOG 앱 다운로드하기 (Android)](https://github.com/SSU-ALOG/alog_application/releases/download/v1.0.0/app-release.apk)**  
 
 - 각종 사건, 사고, 재난, 질병 정보를 지도로 한 눈에
